@@ -1,6 +1,6 @@
 # 💻 Múcio Miranda
 
-Designer, desenvolvedor e construtor de produtos digitais.
+Designer, desenvolvedor e criador de produtos digitais.
 
 ---
 
