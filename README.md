@@ -1,6 +1,7 @@
-# 💻 Múcio Miranda
+# Múcio Miranda
 
 Designer, desenvolvedor e criador de produtos digitais.
+Estudante de Sistemas para Internet na UNIESP
 
 ---
 
@@ -47,7 +48,7 @@ Designer, desenvolvedor e criador de produtos digitais.
 
 ---
 
-## 🧠 Projetos em destaque
+## 🧠Cases recentes
 
 ### 🤖 Kommuchat
 Sistema de atendimento automatizado via WhatsApp com IA  
@@ -58,7 +59,8 @@ Marketplace para conectar lojas de roupas locais ao digital
 → Foco em descoberta, conveniência e sustentabilidade
 
 ### 📐 Archtech
-Sistema de gestão de projetos e escritório para arquitetos com foco em experiência e otimização de processos.
+Sistema de gestão de projetos e escritório para arquitetos co
+→ Foco em experiência e otimização de processos.
 
 ---
 
