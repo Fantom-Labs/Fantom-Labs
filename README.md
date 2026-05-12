@@ -7,7 +7,7 @@ Estudante de Sistemas para Internet na UNIESP
 
 ## 🚀 Sobre mim
 
-- 🎯 +4 anos criando experiências digitais (websites, sistemas e produtos)
+- 🎯 +4 anos criando experiências digitais (websites, sistemas, design)
 - 🧠 Foco em **UI/UX, desenvolvimento web e automações com IA**
 - 🏗️ Founder da **Fantom** — hub de tecnologia design-driven
 - 💻 Estudante de Sistemas para Internet e graduado em Publicidade e Propaganda
