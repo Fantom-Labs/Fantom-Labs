@@ -17,7 +17,7 @@ Estudante de Sistemas para Internet na UNIESP
 
 ## 🧩 O que eu construo
 
-- 🌐 Websites de alta conversão
+- 🌐 Websites 
 - ⚙️ Sistemas e SaaS sob medida
 - 🤖 Automações com IA e banco de dados (Secretária Virtual, Disparos automáticos, Follow-ups e Lembretes)
 - 🎨 Design de interfaces e sistemas de design
@@ -45,6 +45,7 @@ Estudante de Sistemas para Internet na UNIESP
 - Figma
 - Design Systems
 - UX Strategy
+- Photoshop
 
 ---
 
@@ -54,13 +55,13 @@ Estudante de Sistemas para Internet na UNIESP
 Sistema de atendimento automatizado via WhatsApp com IA  
 → Agendamento, CRM, follow-up e automação completa
 
-### 🛍️ Close
-Marketplace para conectar lojas de roupas locais ao digital  
-→ Foco em descoberta, conveniência e sustentabilidade
+### 🧑‍⚕️ Website Med HandsOn
+Website institucional para marketplace de ensino médico com CMS integrado 
+→ Foco em conversão, conteúdo e personalização
 
-### 📐 Archtech
-Sistema de gestão de projetos e escritório para arquitetos co
-→ Foco em experiência e otimização de processos.
+### 🍝 Website Trattoria Alesa
+Website para restaurante italiano localizado na Alemanha
+→ Foco em informação e experiência.
 
 ---
 
