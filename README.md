@@ -56,11 +56,11 @@ Sistema de atendimento automatizado via WhatsApp com IA
 → Agendamento, CRM, follow-up e automação completa
 
 ### 🧑‍⚕️ Website Med HandsOn
-Website institucional para marketplace de ensino médico com CMS integrado 
+Website institucional para marketplace de ensino médico com CMS integrado   
 → Foco em conversão, conteúdo e personalização
 
 ### 🍝 Website Trattoria Alesa
-Website para restaurante italiano localizado na Alemanha
+Website para restaurante italiano localizado na Alemanha  
 → Foco em informação e experiência.
 
 ---
