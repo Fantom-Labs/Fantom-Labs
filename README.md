@@ -78,7 +78,7 @@ Website para restaurante italiano localizado na Alemanha
 ## 📫 Contato
 
 - 📧 Email: fantom.weblabs@gmail.com
-- 💼 LinkedIn: linkedin.com/in/mucio-miranda
+- 💼 LinkedIn: https://linkedin.com/in/mucio-miranda
 
 ---
 
