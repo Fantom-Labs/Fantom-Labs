@@ -5,23 +5,23 @@ Estudante de Sistemas para Internet na UNIESP
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
-- 🎯 +4 anos criando experiências digitais (websites, sistemas, design)
-- 🧠 Foco em **UI/UX, desenvolvimento web e automações com IA**
-- 🏗️ Founder da **Fantom** — hub de tecnologia design-driven
-- 💻 Estudante de Sistemas para Internet e graduado em Publicidade e Propaganda
-- ⚡ Founder da **KOMMUchat** — Sistema de atendimento com IA e CRM para clínicas 
+-  +4 anos criando experiências digitais (websites, sistemas, design)
+-  Foco em **UI/UX, desenvolvimento web e automações com IA**
+-  Founder da **Fantom** — hub de tecnologia design-driven
+-  Estudante de Sistemas para Internet e graduado em Publicidade e Propaganda
+-  Founder da **KOMMUchat** — Sistema de atendimento com IA e CRM para clínicas 
 
 ---
 
-## 🧩 O que eu construo
+##  O que eu construo
 
-- 🌐 Websites 
-- ⚙️ Sistemas e SaaS sob medida
-- 🤖 Automações com IA e banco de dados (Secretária Virtual, Disparos automáticos, Follow-ups e Lembretes)
-- 🎨 Design de interfaces e sistemas de design
-- 📈 Soluções focadas em crescimento de negócios
+-  Websites 
+-  Sistemas e SaaS sob medida
+-  Automações com IA e banco de dados (Secretária Virtual, Disparos automáticos, Follow-ups e Lembretes)
+-  Design de interfaces e sistemas de design
+-  Soluções focadas em crescimento de negócios
 
 ---
 
@@ -49,29 +49,20 @@ Estudante de Sistemas para Internet na UNIESP
 
 ---
 
-## 🧠Cases recentes
+## Cases recentes
 
-### 🤖 Kommuchat
+###  Kommuchat
 Sistema de atendimento automatizado via WhatsApp com IA  
 → Agendamento, CRM, follow-up e automação completa
 
-### 🧑‍⚕️ Website Med HandsOn
+###  Website Med HandsOn
 Website institucional para marketplace de ensino médico com CMS integrado   
 → Foco em conversão, conteúdo e personalização
 
-### 🍝 Website Trattoria Alesa
+###  Website Trattoria Alesa
 Website para restaurante italiano localizado na Alemanha  
 → Foco em informação e experiência.
 
----
-
-## 🎯 Interesses atuais
-
-- Sistemas de Multi Agentes de IA 
-- Produtos SaaS 
-- Automação de processos 
-- Design de experiência e interface
-- Web3
 
 ---
 
@@ -79,11 +70,5 @@ Website para restaurante italiano localizado na Alemanha
 
 - 📧 Email: fantom.weblabs@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/mucio-miranda
-
----
-
-## ⚡ Filosofia
-
-> Construir. Aprender. Ajudar. Evoluir
 
 ---
