@@ -21,7 +21,7 @@ Estudante de Sistemas para Internet na UNIESP
 -  Sistemas e SaaS sob medida
 -  Automações com IA e banco de dados (Secretária Virtual, Disparos automáticos, Follow-ups e Lembretes)
 -  Design de interfaces e sistemas de design
--  Soluções focadas em crescimento de negócios
+-  Soluções focadas em necessidade de usuários
 
 ---
 
