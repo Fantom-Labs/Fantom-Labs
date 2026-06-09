@@ -1,10 +1,10 @@
 # Múcio Miranda
 
- - UX Designer e desenvolvedor
+ - Designer and Developer
 
 ---
 
-##  Contato
+##  Contact
 
 - 📧 Email: fantom.weblabs@gmail.com
 - 💼 LinkedIn: https://linkedin.com/in/mucio-miranda
