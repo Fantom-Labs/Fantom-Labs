@@ -102,7 +102,6 @@
 
 <div align="center">
 
-*Fora do código: produção de UK Drill no FL Studio 🎧*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:412991,100:0A66C2&height=100&section=footer" width="100%"/>
 
