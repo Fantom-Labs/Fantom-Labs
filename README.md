@@ -78,8 +78,8 @@
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=Fantom-Labs&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fantom-Labs&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api?username=Fantom-Labs&show_icons=true&hide_border=true&theme=tokyonight&count_private=true" height="165"/>
+<img src="https://github-readme-stats-git-master-rickstaa.vercel.app/api/top-langs/?username=Fantom-Labs&layout=compact&hide_border=true&theme=tokyonight" height="165"/>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Fantom-Labs&hide_border=true&theme=tokyonight" height="165"/>
 
