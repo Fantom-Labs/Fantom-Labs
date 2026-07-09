@@ -6,7 +6,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Construo+produtos+web+sob+medida+e+SaaS;Do+design+%C3%A0+arquitetura+e+deploy;Baseado+em+Jo%C3%A3o+Pessoa%2C+PB+%F0%9F%87%A7%F0%9F%87%B7" alt="Typing SVG" />
+
 
 </div>
 
