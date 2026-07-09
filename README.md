@@ -14,7 +14,6 @@
 
 <div align="center">
 
-## 🚀 O que estou construindo
 
 </div>
 
