@@ -17,7 +17,7 @@
 
 </div>
 
-- **[Fantom](https://github.com/Fantom-Labs)** — agência web focada em sites custom e produtos SaaS.
+- **[Fantom](https://github.com/Fantom-Labs)** - agência web focada em sites custom e produtos SaaS.
 - **KOMMUchat** - plataforma de agendamento e CRM com IA, WhatsApp-first, para clínicas de saúde. Co-fundador técnico.
 - Projetos institucionais e SaaS B2B com foco em design, com arquitetura limpa e execução real.
 
