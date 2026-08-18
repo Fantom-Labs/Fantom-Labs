@@ -2,7 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A66C2,100:412991&height=200&section=header&text=M%C3%BAcio%20Miranda&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Web%20Developer%20%C2%B7%20UX%2FUI%20Designer%20%C2%B7%20Founder%20%40%20Fantom&descAlignY=55&descSize=18" width="100%"/>
 
-<a href="#">💻 Code</a> | <a href="#">🎨 Design</a> | <a href="#">🚀 Ship</a>
 
 <br/>
 
